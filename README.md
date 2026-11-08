@@ -50,7 +50,7 @@ on gameplay.
 ## Logging in
 
 Two accounts exist from the start, the game's own anchor characters
-Passwords are generated at: `Program Files (x86)/MSP_Local_Server/runtime/admin-credentials.txt`
+Passwords are: npc123
 
 Use one of them, or register your own
 normally and you can make as many as you like.
@@ -67,7 +67,7 @@ https://upload.alpha.moviestarplanet.com
 ```
 
 once in the shipped shell, accept the certificate warning, and you won't see it
-again. Skip this and some images and clothing art will probably fail to load - 
+again. Skip this and some images and assets will probably fail to load - 
 which is an annoying thing to debug.
 
 ## Playing
