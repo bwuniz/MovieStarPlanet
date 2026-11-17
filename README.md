@@ -2,7 +2,8 @@
 
 A self-contained installer for running the 2016 MovieStarPlanet client on PC, completely offline. Partially functional. Everything it needs is inside the installer: the server, Node, MongoDB, the Flash plugin and the game shell. It does not phone home, and it works without Wi-Fi.
 
-<img width="1362" height="790" alt="Screenshot 2026-11-17 164345" src="https://github.com/user-attachments/assets/26b4d808-d476-4458-9021-f66b0964d2c5" />
+<img width="2800" height="2800" alt="MovieStarPlanet_Logo" src="https://github.com/user-attachments/assets/40e6c65d-8a7c-49f4-a24e-2f366f37d8a0" />
+
 
 This is an unofficial, fan-made reimplementation of the game's backend. It talks
 to the original 2016 client
@@ -50,9 +51,11 @@ appears, allow it on a private network only - nothing here needs to accept
 connections from other machines, and you can block it publicly without any effect
 on gameplay.
 
+<img width="1362" height="790" alt="Screenshot 2026-11-17 164345" src="https://github.com/user-attachments/assets/26b4d808-d476-4458-9021-f66b0964d2c5" />
+
 ## Logging in
 
-Two accounts exist from the start, the game's own anchor characters
+Two accounts exist from the start, the game's own anchor characters.
 Passwords are: npc123
 
 Use one of them, or register your own
