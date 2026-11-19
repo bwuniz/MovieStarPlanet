@@ -1,5 +1,9 @@
 # MSP2016
 
+<p align="center"><img src="https://github.com/user-attachments/assets/40e6c65d-8a7c-49f4-a24e-2f366f37d8a0" width="420" alt="MSP2016"></p>
+
+<h1 align="center">MSP2016</h1>
+
 A self-contained installer for running the 2016 MovieStarPlanet client on PC, completely offline. Partially functional. Everything it needs is inside the installer: the server, Node, MongoDB, the Flash plugin and the game shell. It does not phone home, and it works without Wi-Fi.
 
 <img width="2800" height="2800" alt="MovieStarPlanet_Logo" src="https://github.com/user-attachments/assets/40e6c65d-8a7c-49f4-a24e-2f366f37d8a0" />
